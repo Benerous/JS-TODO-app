@@ -17,7 +17,7 @@ A really great application to manage your tasks, sort them in order and mark whi
 * Bootstrap 4.3.1
 
 ## Setup
-* git clone https://github.com/Benerous/JS-TODO-app
+* git clone https://github.com/Benerous/JS-TODO-app.git
 * on 'index.html' right click -> 'Open with Live Server'
 
 ## Features
